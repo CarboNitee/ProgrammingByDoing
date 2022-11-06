@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GenderGame",
+            "request": "launch",
+            "mainClass": "guis.GenderGame",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADumbCalculator",
+            "request": "launch",
+            "mainClass": "ADumbCalculator",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch AgeInFiveYears",
+            "request": "launch",
+            "mainClass": "AgeInFiveYears",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch AskingQuestions2",
+            "request": "launch",
+            "mainClass": "AskingQuestions2",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BMICalculator",
+            "request": "launch",
+            "mainClass": "BMICalculator",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BMICalculatorImperial",
+            "request": "launch",
+            "mainClass": "BMICalculatorImperial",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommentsAndSlashes",
+            "request": "launch",
+            "mainClass": "CommentsAndSlashes",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstProg",
+            "request": "launch",
+            "mainClass": "FirstProg",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoreUserInputOfData",
+            "request": "launch",
+            "mainClass": "MoreUserInputOfData",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoreVariablesAndPrinting",
+            "request": "launch",
+            "mainClass": "MoreVariablesAndPrinting",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleMsgs",
+            "request": "launch",
+            "mainClass": "MultipleMsgs",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch NameAgeAndSalary",
+            "request": "launch",
+            "mainClass": "NameAgeAndSalary",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumbersAndMaths",
+            "request": "launch",
+            "mainClass": "NumbersAndMaths",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostCard",
+            "request": "launch",
+            "mainClass": "PostCard",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Schedule",
+            "request": "launch",
+            "mainClass": "Schedule",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch StillUsingVariables",
+            "request": "launch",
+            "mainClass": "StillUsingVariables",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TheForgetfulMachineee",
+            "request": "launch",
+            "mainClass": "TheForgetfulMachineee",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsingVariables",
+            "request": "launch",
+            "mainClass": "UsingVariables",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariablesAndNames",
+            "request": "launch",
+            "mainClass": "VariablesAndNames",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ABoringWindow",
+            "request": "launch",
+            "mainClass": "guis.ABoringWindow",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch AgeMessage3",
+            "request": "launch",
+            "mainClass": "guis.AgeMessage3",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphabeticalOrder",
+            "request": "launch",
+            "mainClass": "guis.AlphabeticalOrder",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BMICategories",
+            "request": "launch",
+            "mainClass": "guis.BMICategories",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChooseYourOwnAdventure",
+            "request": "launch",
+            "mainClass": "guis.ChooseYourOwnAdventure",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompareToChallenge",
+            "request": "launch",
+            "mainClass": "guis.CompareToChallenge",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TheWorstNumberGuessingGameEver",
+            "request": "launch",
+            "mainClass": "guis.TheWorstNumberGuessingGameEver",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwentyQuestionWellActuallyJustTwo",
+            "request": "launch",
+            "mainClass": "guis.TwentyQuestionWellActuallyJustTwo",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoMoreQuestions",
+            "request": "launch",
+            "mainClass": "guis.TwoMoreQuestions",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsingSwingforInput",
+            "request": "launch",
+            "mainClass": "guis.UsingSwingforInput",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ALittleQuiz",
+            "request": "launch",
+            "mainClass": "ifstatement.ALittleQuiz",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElseAndIf",
+            "request": "launch",
+            "mainClass": "ifstatement.ElseAndIf",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowOldAreYou",
+            "request": "launch",
+            "mainClass": "ifstatement.HowOldAreYou",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowOldAreYouSpecifically",
+            "request": "launch",
+            "mainClass": "ifstatement.HowOldAreYouSpecifically",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch ModulusAnimation",
+            "request": "launch",
+            "mainClass": "ifstatement.ModulusAnimation",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpaceBoxing",
+            "request": "launch",
+            "mainClass": "ifstatement.SpaceBoxing",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeekDayNames",
+            "request": "launch",
+            "mainClass": "ifstatement.WeekDayNames",
+            "projectName": "ProgramingByDoing_a37872bb"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhatIf",
+            "request": "launch",
+            "mainClass": "ifstatement.WhatIf",
+            "projectName": "ProgramingByDoing_a37872bb"
+        }
+    ]
+}
